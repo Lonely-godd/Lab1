@@ -1,6 +1,5 @@
-# Лабораторна №1
-ФІ-14 Прунчак Кирило виконав Лабораторну №1
+# Behavioral pattern - Mediator
 
-Я реалізував поведінковий паттерн Посередник (Mediator) - Mediator.py
+I implemented the Mediator behavioral pattern - Mediator.py
 
-Та створив unit tests до Mediator.py - test_mediator.py
+And also created a unit tests for Mediator.py - test_mediator.py
